@@ -16,5 +16,5 @@ Leveraging the dataset, the analysis seeks to delineate patterns in various US i
 ### Conclusion
 Based on our analysis, industries poised for substantial growth include mining and information technology. Meanwhile, industries showing the most significant income growth are internet software and financial investment. Finally, when considering occupations with the highest income potential, individuals with a college degree excel in information-related professions, while those without degrees often find lucrative opportunities as electricians.
 
-### citations
+### Citations
 Steven Ruggles, Sarah Flood, Matthew Sobek, Daniel Backman, Annie Chen, Grace Cooper, Stephanie Richards, Renae Rodgers, and Megan Schouweiler. IPUMS USA: Version 15.0 [dataset]. Minneapolis, MN: IPUMS, 2024. https://doi.org/10.18128/D010.V15.0
