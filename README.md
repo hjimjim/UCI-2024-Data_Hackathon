@@ -1,6 +1,6 @@
 # UCI-2024-Data_Hackathon
 
-### Questions: 
+### Questions
 What are the trends in the US industry? What can recent graduates anticipate in terms of employment trajectories within these industries? 
 
 ### Introduction
